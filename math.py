@@ -6,7 +6,9 @@ def add(x,y):
 
 # Subtract implementation new
 def subtract(x,y):
-    pass
+    if x<y: 
+       retuen error
+    x
 
 # Add implementation
 # Multiply implementation
