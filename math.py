@@ -24,3 +24,6 @@ def log(x):
     pass
 
 #while cloning
+
+def square(x)
+    return x
