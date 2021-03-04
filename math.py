@@ -3,8 +3,8 @@
 def add(x,y):
 	return x+y
 
-# Add implementation
-# Subtract implementation
+
+# Subtract implementation new
 def subtract(x,y):
     pass
 
